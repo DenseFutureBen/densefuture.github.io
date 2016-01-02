@@ -42,4 +42,4 @@ I think we can. We know that our current political system mostly serves the weal
 
 As we learn the affordability outcomes of supply and demand choices, we could also change the laws allowing zoning. It may be that zoning inherently worsens inequality, and that we should not have the right to limit how much someone can build. Many countries don’t allow local zoning, and they have more equitable outcomes.
 
-Thanks for reading this far. If you have feedback, feel free to [contact me](http://www.schiendelman.com/about/)!
+Thanks for reading this far. If you have feedback, feel free to [contact me](/about/)!
