@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      Housing restrictions are causing inequality. Here's how.
+title:      Housing restrictions cause inequality. Here's how.
 date:       2015-03-27
 summary:    
 categories: housing zoning inequality
 ---
 
-A [recent theory](https://medium.com/the-ferenstein-wire/a-26-year-old-mit-graduate-is-turning-heads-over-his-theory-that-income-inequality-is-actually-2a3b423e0c) suggests that housing is at the root of increasing inequality. I agree; housing may be where most wealth inequality comes from today, and I think I can explain why.
+A [recent theory](https://medium.com/the-ferenstein-wire/a-26-year-old-mit-graduate-is-turning-heads-over-his-theory-that-income-inequality-is-actually-2a3b423e0c) suggests that housing is now the sole driver of wealth inequality. I agree; housing may be where most wealth inequality comes from today, and I think I can explain why.
 
 In growing cities like Seattle, we know we're building much less housing than there are people who want to move here. The people moving in tend to be higher income than existing residents. That  demand increases the value of property, and causes a property owner to make a choice between three major categories:
 
