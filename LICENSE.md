@@ -1,4 +1,4 @@
-Copyright (c) 2015 Ben Schiendelman
+Dense Future Copyright (c) 2015 Ben Schiendelman.
 
 Includes code from Hyde theme, Copyright (c) 2013 Mark Otto.
 
