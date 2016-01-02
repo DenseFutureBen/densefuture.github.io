@@ -9,8 +9,8 @@ relative_permalinks: true
 # Setup
 title:            Dense Future
 tagline:          'Improving human outcomes'
-description:      'A project to make humanity more sustainable through density'
-url:              http://www.densefuture.com
+description:      'Making humanity more efficient through density'
+url:              http://densefuture.com
 baseurl:          /
 
 author:
