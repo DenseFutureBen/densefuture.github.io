@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Why I'm writing again
-date:       2017-09-20
+date:       2017-09-19
 ---
 
 More than two years ago, I basically stopped writing. I'd been advocating for better mass transit for years, and after a few wins, I didn't feel like there was much more for me to do - transit in Seattle would keep getting built for decades to come, and the marginal improvements I could make with further advocacy seemed minimal.
