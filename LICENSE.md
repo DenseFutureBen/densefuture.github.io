@@ -1,4 +1,4 @@
-# Copyright (c) 2015 Ben Schiendelman
+# Copyright (c) 2017 Ben Schiendelman
 
 Uses code from Hyde, Released under MIT License
 Copyright (c) 2013 Mark Otto.
