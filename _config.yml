@@ -10,7 +10,7 @@ title:            Dense Future
 tagline:          'Improving human outcomes'
 description:      ''
 url:              http://densefuture.com
-baseurl:          /
+baseurl:          http://densefuture.com/
 
 author:
   name:           'Ben Schiendelman'
